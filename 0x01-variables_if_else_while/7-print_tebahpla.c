@@ -3,11 +3,11 @@
   * main - Entry point
   * Return: 0
   */
-int main(void)
+int main()
 {
 char alphabets;
 
-for (alphabets = 122 ; alpahbets >= 97; alphabets--)
+for (alphabets = 122 ; alphabets >= 97; alphabets--)
 {
 putchar(alphabets);
 }
