@@ -9,7 +9,8 @@ int wholeNumbers;
 
 for (wholeNumbers = 0 ; wholeNumbers < 10; wholeNumbers++)
 {
-printf("%d\n", wholeNumbers);
+printf("%d", wholeNumbers);
 }
+printf("\n");
 return (0);
 }
